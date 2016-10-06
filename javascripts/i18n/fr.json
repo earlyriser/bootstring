@@ -110,7 +110,7 @@
 "up votes":"Votos",
 "down votes":"Votos contra",
 
-"":"--------------//pricing",
+"":"--------------//ecommerce",
 "add to cart":"Añadir al carro de compra",
 "buy":"Comprar",
 "cart":"Carro de compra",
@@ -223,9 +223,9 @@
 "reset password":"Reiniciar contraseña",
 "reset password instructions":"Te enviaremos instrucciones para reiniciar tu contraseña",
 
-"":"--------------//activation",
-"activation ok":"Tu cuenta ha sido activada. ¡Gracias!",
-"account activation":"Activación de cuenta",
+"":"--------------//onboarding",
+"onboarding ok":"Tu cuenta ha sido activada. ¡Gracias!",
+"account onboarding":"Activación de cuenta",
 
 "":"--------------//text editor",
 "alignment":"Alineado",

@@ -1,5 +1,5 @@
 {
-	"main sections":[
+	"main_sections":[
 "about",
 "account",
 "activity",
@@ -37,7 +37,7 @@
 "what is _"
 ],
 
-"main actions":[
+"main_actions":[
 "accept",
 "add",
 "add to favorites",
@@ -77,15 +77,12 @@
 "upload",
 "view"],
 
-"browsing":[
+"navigation":[
 "featured",
 "most viewed",
 "new",
 "popular",
-"top"
-],
-
-"navigation":[
+"top",	
 "next",
 "previous",
 "first",
@@ -102,7 +99,7 @@
 "rewind"
 ],
 
-"social features":[
+"social":[
 "comment",
 "comments",
 "favorites",
@@ -115,7 +112,7 @@
 "down votes"
 ],
 
-"pricing":[
+"ecommerce":[
 "add to cart",
 "buy",
 "cart",
@@ -189,7 +186,7 @@
 "day 7"
 ],
 
-"ajax":[
+"asynchronous":[
 "pull to refresh",
 "refresh",
 "refreshing",
@@ -197,7 +194,7 @@
 "reloading"
 ],
 
-"form fields & legends":[
+"forms":[
 "first name",
 "last name",
 "middle name",
@@ -231,11 +228,11 @@
 "reset password",
 "reset password instructions"],
 
-"activation":[
-"activation ok",
-"account activation"],
+"onboarding":[
+"onboarding ok",
+"account onboarding"],
 
-"text editor":[
+"text_editor":[
 "alignment",
 "background",
 "bold",

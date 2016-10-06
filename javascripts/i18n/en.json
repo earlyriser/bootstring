@@ -109,7 +109,7 @@
 "up votes":"Up votes",
 "down votes":"Down votes",
 
-"":"--------------///pricing",
+"":"--------------///ecommerce",
 "add to cart":"Add to cart",
 "buy":"Buy",
 "cart":"Cart",
@@ -222,9 +222,9 @@
 "reset password":"Reset password",
 "reset password instructions":"We'll email you instructions on how to reset your password.",
 
-"":"--------------///activation",
-"activation ok":"Your account has been activated. Thanks!",
-"account activation":"Account Activation",
+"":"--------------///onboarding",
+"onboarding ok":"Your account has been activated. Thanks!",
+"account onboarding":"Account Activation",
 
 "":"--------------///text editor",
 "alignment":"Alignment",
